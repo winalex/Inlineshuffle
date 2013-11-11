@@ -16,7 +16,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'04.07.2013'</value>
+      <value>'11.11.2013'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -32,20 +32,20 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>D:\Projects\InlineshuffleAIR\project\src</path-element>
-      <path-element>E:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
+      <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\src</path-element>
+      <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>D:\Projects\InlineshuffleAIR\project\lib\tweener.swc</path-element>
-      <path-element>D:\Projects\InlineshuffleAIR\project\lib\MonsterDebugger.swc</path-element>
-      <path-element>D:\Projects\InlineshuffleAIR\project\lib\sounds.swc</path-element>
-      <path-element>D:\Projects\InlineshuffleAIR\project\lib\logo.swc</path-element>
-      <path-element>D:\Projects\InlineshuffleAIR\project\lib\assets.swc</path-element>
-      <path-element>D:\Projects\InlineshuffleAIR\project\lib\Alternativa3D.swc</path-element>
+      <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\lib\tweener.swc</path-element>
+      <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\lib\MonsterDebugger.swc</path-element>
+      <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\lib\sounds.swc</path-element>
+      <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\lib\logo.swc</path-element>
+      <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\lib\assets.swc</path-element>
+      <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\lib\Alternativa3D.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>D:\Projects\InlineshuffleAIR\project\src\Main.as</path-element>
+    <path-element>C:\Users\Irena\Documents\Inlineshuffle Project\src\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#000000</default-background-color>
   <default-frame-rate>30</default-frame-rate>
